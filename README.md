@@ -1,6 +1,6 @@
 ### Hi, I'm Abhay Chauhan 👋
 
-I am on the path of Learning different **JavaScript FrameWorks** to excel as a **Web Development**. Currently an undergrad ECE student and working on an **E-commerce Website**
+I am on the path of Learning different **JavaScript FrameWorks** to excel as a **Web Development**. Currently an undergrad ECE student.
 
 - 🔭 I’m currently working on Web Projects.
 - 🌱 I’m currently learning ReactJs, GraphQL, and how to write.
