@@ -27,6 +27,8 @@
 ⚡ Fun fact **Chai over coffee**
 
 </div>
+<h2 align="center">Github Stats</h2>
+
 <div align="center">
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay27chauhan&layout=compact&hide=html" alt="anshusaurav" /></p>
 </div>
